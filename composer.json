@@ -1,0 +1,19 @@
+{
+    "name": "grimmtools/locationparser",
+    "description": "Location parser, which is using data from http://www.geonames.org",
+    "authors": [
+        {
+            "name": "Grimm Team",
+            "email": "grimmdev.team@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "GrimmTools\\Assets": "src/"
+        }
+    }
+}

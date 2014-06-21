@@ -1,6 +1,6 @@
 <?php
 
-namespace GrimmTools\LocationParser;
+namespace GrimmTools\Assets;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

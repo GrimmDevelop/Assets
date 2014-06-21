@@ -1,6 +1,6 @@
 {
-    "name": "grimmtools/locationparser",
-    "description": "Location parser, which is using data from http://www.geonames.org",
+    "name": "grimmtools/assets",
+    "description": "Asset manager",
     "authors": [
         {
             "name": "Grimm Team",
